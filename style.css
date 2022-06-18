@@ -1,3 +1,22 @@
-body {
-  background-color: red;
+.container {
+  margin-bottom: 60px;
+}
+
+.wc-orange-bg {
+  background-color: #fceae8;
+  border-radius: 7px;
+}
+
+.carousel-item {
+  padding: 20px 40px;
+}
+
+.buy-now-button {
+  background-image: linear-gradient(to bottom, #ff589f 0%, #ff136f 100%);
+  border: none;
+  text-align: center;
+  border-radius: 8px;
+  color: #fff;
+  padding: 9px 25px;
+  cursor: pointer;
 }
